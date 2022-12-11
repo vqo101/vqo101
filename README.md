@@ -1,6 +1,5 @@
 ### Hi there 👋, Cześć jestem Bartek
 #### Jestem początkującym developerem front-endu.
-![Jestem początkującym developerem front-endu.]
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
