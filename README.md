@@ -1,6 +1,6 @@
 ### Hi there 👋, Cześć jestem Bartek
 #### Jestem początkującym developerem front-endu.
-![Jestem początkującym developerem front-endu.](https://cdn.discordapp.com/attachments/1050870456418324582/1051435810924269588/200.gif)
+![Jestem początkującym developerem front-endu.]
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
